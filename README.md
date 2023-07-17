@@ -12,4 +12,4 @@ Welcome to the AI-Labs Community!
 To join our talented community:
 1. Create an *Issues* option in the repository.
 2. Enter your Git *username* or *email* address.
-3. Click on *Submit* new issue.
+3. Click on *Submit* to create a new issue.
