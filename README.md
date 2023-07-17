@@ -1,5 +1,5 @@
 # AI-Labs-Invitation
-Welcome to the AI-Labs Community
+Welcome to the AI-Labs Community!
 
 
 <div align="center">
