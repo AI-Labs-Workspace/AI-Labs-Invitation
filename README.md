@@ -10,6 +10,6 @@ Welcome to the AI-Labs Community!
 
 ### ◘ Organization Entry
 To join our talented community:
-1. Create an *Issues* option in the repository.
-2. Enter your Git *username* or *email* address.
-3. Click on *Submit* to create a new issue.
+1. Create *a new Issue* in the Issues tab.
+2. Enter your *git username* or *email* address.
+3. Click on *Submit* to finalize creating the new issue.
