@@ -1,7 +1,12 @@
 # AI-Labs-Invitation
 Welcome to the AI-Labs Community
 
-</br></br>
+
+<div align="center">
+    <img width="60%" src="src/files/ai-labs2.gif" alt="AI.gif" >
+</div>
+
+</br>
 
 ### ◘ Organization Entry
 To join our talented community:
